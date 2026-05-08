@@ -1,6 +1,7 @@
-[Шаблон Telegram-бота на Aiogram 3.x](https://github.com/englishtech/template_bot)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![aiogram](https://img.shields.io/badge/aiogram-3.x-blue.svg)](https://docs.aiogram.dev/)\
+
+[Шаблон Telegram-бота на Aiogram 3.x](https://github.com/englishtech/template_bot)
 Шаблон для быстрого старта разработки Telegram-ботов на Aiogram 3.x.
 Поддерживает гибкую конфигурацию с возможностью запуска в режиме Long Polling или Webhook. Вся конфигурация реализована через dataclass с загрузкой параметров из переменных окружения с помощью библиотеки environs, что обеспечивает типобезопасность и удобство настройки.
 
