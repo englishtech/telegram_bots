@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat-square&logo=python) 
 ![aiogram](https://img.shields.io/badge/aiogram-3.x-orange?style=flat-square)
 
-[**Шаблон Telegram-бота на Aiogram 3.x**](https://github.com/englishtech/template_bot)    
+[**Шаблон Telegram-бота на Aiogram 3.x**](https://github.com/englishtech/template_bot)
+
 Шаблон для быстрого старта разработки Telegram-ботов на Aiogram 3.x.  
 Поддерживает гибкую конфигурацию с возможностью запуска в режиме Long Polling или Webhook. Вся конфигурация реализована через dataclass с загрузкой параметров из переменных окружения с помощью библиотеки environs, что обеспечивает типобезопасность и удобство настройки.
 
@@ -22,7 +23,9 @@
 ---
 
 [**service_master_bot**](https://github.com/englishtech/service_master_bot)
+
 Telegram-бот, разработанный для удобной записи пользователей на услуги специалистов (например, парикмахеров, массажистов, консультантов и т.п.). Бот позволяет пользователям просматривать доступные услуги, управлять своими записями, выбирать свободные даты и время, оставлять комментарии и контактные данные. Для администраторов предусмотрена панель управления, где можно просматривать и редактировать записи клиентов.
 
 Бот использует асинхронную библиотеку aiogram для работы с Telegram API и хранит данные в файле Excel (с возможностью замены на SQLite или Google Sheets).
 
+---
